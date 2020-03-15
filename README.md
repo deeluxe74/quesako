@@ -1,1 +1,1 @@
-<p style="font-size:150px;">Quesako<p>
+<p class="text-center">Quesako<p>
