@@ -9,7 +9,8 @@
 ### Quésako ?
 
 Une Web/app déveloper en Laravel/Vuejs (mysql) avec un but précis et simple. La compréhension des nouveaux mots, 
-pour ce faire il suffit d'effectuez vos recherches directement sur le site et accèder au mots et sa définition ! 
+pour ce faire il suffit d'effectuez vos recherches directement sur le site et accèder au mots et sa définition !
+
 **Si votre mot n'est pas en base de donnée, faite quelque recherche et ajouté le en quelque seconde.**
 
 ### Installation sur votre système
