@@ -36,6 +36,10 @@ npm run watch
 
 N'oubliez pas de lancer Xampp et éditer le .env pour relier la base de données et lancer les migrations (php artisan migrate).
 
+
+**Bonne nouvelle**, cette application est hébergée pour que vous puissiez la tester.<br>
+[quesako.noteatcookie.fr](quesako.noteatcookie.fr)
+
 **Ce projet est disponible avec des explications détaillées ainsi que des illustrations sur [mon site](https://www.rollet-raphael.com/project)**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ypB_0Ra_6Ls/0.jpg)](https://www.youtube.com/watch?v=ypB_0Ra_6Ls)
